@@ -1,0 +1,4 @@
+ablation,setting,acc,macro_f1,roc_auc,time_sec
+EyeChannel,left,0.7,0.6703296703296704,0.9600000000000001,4.3898617080412805
+EyeChannel,right,1.0,1.0,1.0,3.2665422919671983
+EyeChannel,both,1.0,1.0,1.0,4.311894458020106
